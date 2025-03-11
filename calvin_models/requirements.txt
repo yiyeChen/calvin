@@ -16,7 +16,7 @@ MulticoreTSNE
 gitpython
 scipy
 sentence-transformers
-setuptools==57.5.0
+setuptools
 gym
 moviepy
 tqdm
